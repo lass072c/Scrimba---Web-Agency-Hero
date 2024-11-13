@@ -1,12 +1,10 @@
 body{
     background: url(img/faded-office.png);
     background-size: cover;
-    height: 100px;
     padding: 30px 100px;
     font-family: 'open sans';
 }
 .top{
-    font-weight: 50px;
     font-size: 80px;
     width: 450px;
 }
@@ -15,18 +13,17 @@ body{
     font-size: 25px;
     color: #020202;
     width: 450px;
+    font-weight: 300;
 }
 .btn{
     display: block;
     color: white;
     background-color: #0ea5e9;
-    border: 1px;
     font-size: 30px;
     padding: 20px 30px;
     
 }
 .link{
-    font-display: block;
     border-bottom: 5px solid #0ea5e9;
     font-size: 25px; 
     text-decoration: none;
