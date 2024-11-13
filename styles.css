@@ -7,25 +7,25 @@ body{
 .top{
     font-size: 80px;
     width: 450px;
+    font-style: bold;
 }
 .txt{
     display: block;
-    font-size: 25px;
+    font-size: 35px;
     color: #020202;
     width: 450px;
-    font-weight: 300;
+    font-weight: 100;
 }
 .btn{
     display: block;
     color: white;
     background-color: #0ea5e9;
-    font-size: 30px;
+    font-size:30px;
     padding: 20px 30px;
     
 }
 .link{
     border-bottom: 5px solid #0ea5e9;
-    font-size: 25px; 
     text-decoration: none;
     color: #020202;
 }
